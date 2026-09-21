@@ -31,8 +31,9 @@ If true, increment count by 1.
 ```
 /*
 Program to implement Reverse a String
-Developed by: Ashwin Akash M
-Register Number:  212223230024
+Developed by: GOKHULRAJ V
+Register Number:  212223230064
+
 */
 import java.util.Scanner;
 public class CountPairsWithDifference {
